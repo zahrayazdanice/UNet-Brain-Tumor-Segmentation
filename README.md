@@ -41,7 +41,7 @@ Follow these steps to run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/nimabgr/UNet-Brain-Tumor-Segmentation.git
+    git clone https://github.com/zahrayazdanice/UNet-Brain-Tumor-Segmentation.git
     cd UNet-Brain-Tumor-Segmentation
     ```
 
